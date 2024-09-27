@@ -2,6 +2,8 @@
 
 A reference .NET application implementing an e-commerce website using a services-based architecture using [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/).
 
+开源的 .NET 电商平台。该项目是由 .NET 官方开源的电子商务平台，基于 .NET Aspire 构建。作为示例项目，它采用最新的 .NET 8 和微服务架构，并实现了核心的电商功能。
+
 ![eShop Reference Application architecture diagram](img/eshop_architecture.png)
 
 ![eShop homepage screenshot](img/eshop_homepage.png)
